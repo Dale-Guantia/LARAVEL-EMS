@@ -1,66 +1,99 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<h1 align="center" id="title">LARAVEL-EMS</h1>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+<p align="center"><img src="https://socialify.git.ci/Dale-Guantia/LARAVEL-EMS/image?font=Source+Code+Pro&amp;forks=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Plus&amp;pulls=1&amp;stargazers=1&amp;theme=Auto" alt="project-image"></p>
 
-## About Laravel
+<p id="description">Employee Management System with multiple user roles (Admin Employee and Guest) using middleware and Laravel Breeze for authentication login and registration.</p>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+  
+  
+<h2>🧐 Features</h2>
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Here're some of the project's best features:
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+*   Register and Login Users
+*   CRUD operations
+*   Multiple User Roles (Admin Employee and Guest)
+*   User approval for new registered account
+*   Send an email notification to the admin and employee accounts upon user approval
+*   Restrict access to specific routes by using middleware.
 
-## Learning Laravel
+<h2>🛠️ Installation Steps:</h2>
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+<p>1. In your terminal navigate to the directory where you want to clone the project then run:</p>
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+```
+git clone https://github.com/Dale-Guantia/LARAVEL-EMS.git
+```
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+<p>2. After cloning run this to navigate into the project folder:</p>
 
-## Laravel Sponsors
+```
+composer install
+```
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+<p>3. Run this to install Node.js frontend dependencies:</p>
 
-### Premium Partners
+```
+npm install
+```
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+<p>4. Copy the .env.example file to create a new .env file:</p>
 
-## Contributing
+```
+cp .env.example .env
+```
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+<p>5. Then generate the application key:</p>
 
-## Code of Conduct
+```
+php artisan key:generate
+```
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+<p>6. Open the .env file and update the database settings:</p>
 
-## Security Vulnerabilities
+```
+DB_CONNECTION=mysql DB_HOST=127.0.0.1 DB_PORT=3306 DB_DATABASE=your_database_name DB_USERNAME=your_username DB_PASSWORD=your_password
+```
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+<p>7. Run the migrations (Note: the "--seed" in the command below will automatically add "Admin User" credentials to your database; It is necessary to make your first login to the application):</p>
 
-## License
+```
+php artisan migrate --seed
+```
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<p>8. Start the Laravel server:</p>
+
+```
+php artisan serve
+```
+
+<p>9. By default your app will be available at:</p>
+
+```
+http://127.0.0.1:8000
+```
+
+<p>10. User this credentials to login "Admin User":</p>
+
+```
+E-mail: admin@example.com    Password: 12341234
+```
+
+<p>11. To enable email notifications for user approvals you must configure the ".env" file and update the "MAILER" settings; You can watch this simple video tutorial on how to configure or send e-mail in Laravel using Gmail SMTP:</p>
+
+```
+https://www.youtube.com/watch?v=JesSP3pRB_I
+```
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   PHP
+*   Laravel
+*   Laravel Breeze
+*   Bootstrap
+*   Tailwind
+*   JavaScript
