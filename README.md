@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://socialify.git.ci/Dale-Guantia/LARAVEL-EMS/image?font=Source+Code+Pro&amp;forks=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Plus&amp;pulls=1&amp;stargazers=1&amp;theme=Auto" alt="project-image"></p>
 
-<p id="description">Employee Management System with multiple user roles (Admin Employee and Guest) using middleware and Laravel Breeze for authentication login and registration.</p>
+<p id="description">Employee Management System with multiple user roles (**Admin, Employee, and Guest**) using middleware and Laravel Breeze for authentication login and registration.</p>
 
   
   
