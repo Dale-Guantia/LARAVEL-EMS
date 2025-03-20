@@ -81,10 +81,11 @@ http://127.0.0.1:8000
 <p>10. User this credentials to login "Admin User":</p>
 
 ```
-E-mail: admin@example.com    Password: 12341234
+E-mail: admin@example.com
+Password: 12341234
 ```
 
-<p>11. To enable email notifications for user approvals you must configure the ".env" file and update the "MAILER" settings like the example below; You can watch this simple video tutorial on how to get email_password and to configure using Gmail SMTP:</p>
+<p>11. To enable email notifications for user approvals you must configure the ".env" file and update the "MAIL" settings like the example below; You can watch this simple video tutorial on how to get email_password and to configure using Gmail SMTP:</p>
 
 ```
 MAIL_MAILER=smtp
