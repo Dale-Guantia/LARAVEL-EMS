@@ -1,0 +1,111 @@
+]8;;https://github.com/brick/math/tree/0.12.2\brick/math]8;;\                         0.12.2  Arbitrary-precision arithmetic library
+]8;;https://github.com/CarbonPHP/carbon-doctrine-types/tree/3.2.0\carbonphp/carbon-doctrine-types]8;;\    3.2.0   Types to use Carbon in Doctrine
+]8;;https://github.com/dflydev/dflydev-dot-access-data/tree/v3.0.3\dflydev/dot-access-data]8;;\            3.0.3   Given a deep data structure, access data by dot notation.
+]8;;https://github.com/doctrine/inflector/tree/2.0.10\doctrine/inflector]8;;\                 2.0.10  PHP Doctrine Inflector is a small library that can perform string manipulations with regard to upper...
+]8;;https://github.com/doctrine/lexer/tree/3.0.1\doctrine/lexer]8;;\                     3.0.1   PHP Doctrine Lexer parser library that can be used in Top-Down, Recursive Descent Parsers.
+]8;;https://github.com/dragonmantank/cron-expression/tree/v3.4.0\dragonmantank/cron-expression]8;;\      3.4.0   CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
+]8;;https://github.com/egulias/EmailValidator/tree/4.0.3\egulias/email-validator]8;;\            4.0.3   A library for validating emails against several RFCs
+]8;;https://github.com/FakerPHP/Faker/tree/v1.24.1\fakerphp/faker]8;;\                     1.24.1  Faker is a PHP library that generates fake data for you.
+]8;;https://github.com/filp/whoops/tree/2.17.0\filp/whoops]8;;\                        2.17.0  php error handling for cool kids
+]8;;https://github.com/fruitcake/php-cors/tree/v1.3.0\fruitcake/php-cors]8;;\                 1.3.0   Cross-origin resource sharing library for the Symfony HttpFoundation
+]8;;https://github.com/GrahamCampbell/Result-Type/tree/v1.1.3\graham-campbell/result-type]8;;\        1.1.3   An Implementation Of The Result Type
+]8;;https://github.com/guzzle/guzzle/tree/7.9.2\guzzlehttp/guzzle]8;;\                  7.9.2   Guzzle is a PHP HTTP client library
+]8;;https://github.com/guzzle/promises/tree/2.0.4\guzzlehttp/promises]8;;\                2.0.4   Guzzle promises library
+]8;;https://github.com/guzzle/psr7/tree/2.7.0\guzzlehttp/psr7]8;;\                    2.7.0   PSR-7 message implementation that also provides common utility methods
+]8;;https://github.com/guzzle/uri-template/tree/v1.0.4\guzzlehttp/uri-template]8;;\            1.0.4   A polyfill class for uri_template of PHP
+]8;;https://github.com/hamcrest/hamcrest-php/tree/v2.0.1\hamcrest/hamcrest-php]8;;\              2.0.1   This is the PHP port of Hamcrest Matchers
+]8;;https://github.com/laravel/breeze\laravel/breeze]8;;\                     2.3.5   Minimal Laravel authentication scaffolding with Blade and Tailwind.
+]8;;https://github.com/laravel/framework\laravel/framework]8;;\                  11.44.0 The Laravel Framework.
+]8;;https://github.com/laravel/pail\laravel/pail]8;;\                       1.2.2   Easily delve into your Laravel application's log files directly from the command line.
+]8;;https://github.com/laravel/pint\laravel/pint]8;;\                       1.21.0  An opinionated code formatter for PHP.
+]8;;https://github.com/laravel/prompts/tree/v0.3.5\laravel/prompts]8;;\                    0.3.5   Add beautiful and user-friendly forms to your command-line applications.
+]8;;https://github.com/laravel/sail\laravel/sail]8;;\                       1.41.0  Docker files for running a basic Laravel application.
+]8;;https://github.com/laravel/serializable-closure\laravel/serializable-closure]8;;\       2.0.3   Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
+]8;;https://github.com/laravel/tinker/tree/v2.10.1\laravel/tinker]8;;\                     2.10.1  Powerful REPL for the Laravel framework.
+]8;;https://github.com/thephpleague/commonmark\league/commonmark]8;;\                  2.6.1   Highly-extensible PHP Markdown parser which fully supports the CommonMark spec and GitHub-Flavored M...
+]8;;https://github.com/thephpleague/config\league/config]8;;\                      1.2.0   Define configuration arrays with strict schemas and access values with dot notation
+]8;;https://github.com/thephpleague/flysystem/tree/3.29.1\league/flysystem]8;;\                   3.29.1  File storage abstraction for PHP
+]8;;https://github.com/thephpleague/flysystem-local/tree/3.29.0\league/flysystem-local]8;;\             3.29.0  Local filesystem adapter for Flysystem.
+]8;;https://github.com/thephpleague/mime-type-detection/tree/1.16.0\league/mime-type-detection]8;;\         1.16.0  Mime-type detection for Flysystem
+]8;;https://github.com/thephpleague/uri/tree/7.5.1\league/uri]8;;\                         7.5.1   URI manipulation library
+]8;;https://github.com/thephpleague/uri-interfaces/tree/7.5.0\league/uri-interfaces]8;;\              7.5.0   Common interfaces and classes for URI representation and interaction
+]8;;https://github.com/mockery/mockery\mockery/mockery]8;;\                    1.6.12  Mockery is a simple yet flexible PHP mock object framework
+]8;;https://github.com/Seldaek/monolog/tree/3.8.1\monolog/monolog]8;;\                    3.8.1   Sends your logs to files, sockets, inboxes, databases and various web services
+]8;;https://github.com/myclabs/DeepCopy/tree/1.13.0\myclabs/deep-copy]8;;\                  1.13.0  Create deep copies (clones) of your objects
+]8;;https://github.com/CarbonPHP/carbon\nesbot/carbon]8;;\                      3.8.6   An API extension for DateTime that supports 281 different languages.
+]8;;https://github.com/nette/schema/tree/v1.3.2\nette/schema]8;;\                       1.3.2   📐 Nette Schema: validating data structures against a given Schema.
+]8;;https://github.com/nette/utils/tree/v4.0.5\nette/utils]8;;\                        4.0.5   🛠  Nette Utils: lightweight utilities for string & array manipulation, image handling, safe JSON ...
+]8;;https://github.com/nikic/PHP-Parser/tree/v5.4.0\nikic/php-parser]8;;\                   5.4.0   A PHP parser written in PHP
+]8;;https://github.com/nunomaduro/collision\nunomaduro/collision]8;;\               8.6.1   Cli error handling for console/command-line PHP applications.
+]8;;https://github.com/nunomaduro/termwind/tree/v2.3.0\nunomaduro/termwind]8;;\                2.3.0   Its like Tailwind CSS, but for the console.
+]8;;https://github.com/phar-io/manifest/tree/2.0.4\phar-io/manifest]8;;\                   2.0.4   Component for reading phar.io manifest information from a PHP Archive (PHAR)
+]8;;https://github.com/phar-io/version/tree/3.2.1\phar-io/version]8;;\                    3.2.1   Library for handling version information and constraints
+]8;;https://github.com/schmittjoh/php-option/tree/1.9.3\phpoption/phpoption]8;;\                1.9.3   Option Type for PHP
+]8;;https://github.com/sebastianbergmann/php-code-coverage/tree/11.0.9\phpunit/php-code-coverage]8;;\          11.0.9  Library that provides collection, processing, and rendering functionality for PHP code coverage info...
+]8;;https://github.com/sebastianbergmann/php-file-iterator/tree/5.1.0\phpunit/php-file-iterator]8;;\          5.1.0   FilterIterator implementation that filters files based on a list of suffixes.
+]8;;https://github.com/sebastianbergmann/php-invoker/tree/5.0.1\phpunit/php-invoker]8;;\                5.0.1   Invoke callables with a timeout
+]8;;https://github.com/sebastianbergmann/php-text-template/tree/4.0.1\phpunit/php-text-template]8;;\          4.0.1   Simple template engine.
+]8;;https://github.com/sebastianbergmann/php-timer/tree/7.0.1\phpunit/php-timer]8;;\                  7.0.1   Utility class for timing
+]8;;https://github.com/sebastianbergmann/phpunit/tree/11.5.10\phpunit/phpunit]8;;\                    11.5.10 The PHP Unit Testing framework.
+]8;;https://github.com/php-fig/clock/tree/1.0.0\psr/clock]8;;\                          1.0.0   Common interface for reading the clock.
+]8;;https://github.com/php-fig/container/tree/2.0.2\psr/container]8;;\                      2.0.2   Common Container Interface (PHP FIG PSR-11)
+]8;;https://github.com/php-fig/event-dispatcher/tree/1.0.0\psr/event-dispatcher]8;;\               1.0.0   Standard interfaces for event handling.
+]8;;https://github.com/php-fig/http-client\psr/http-client]8;;\                    1.0.3   Common interface for HTTP clients
+]8;;https://github.com/php-fig/http-factory\psr/http-factory]8;;\                   1.1.0   PSR-17: Common interfaces for PSR-7 HTTP message factories
+]8;;https://github.com/php-fig/http-message/tree/2.0\psr/http-message]8;;\                   2.0     Common interface for HTTP messages
+]8;;https://github.com/php-fig/log/tree/3.0.2\psr/log]8;;\                            3.0.2   Common interface for logging libraries
+]8;;https://github.com/php-fig/simple-cache/tree/3.0.0\psr/simple-cache]8;;\                   3.0.0   Common interfaces for simple caching
+]8;;https://github.com/bobthecow/psysh/tree/v0.12.7\psy/psysh]8;;\                          0.12.7  An interactive shell for modern PHP.
+]8;;https://github.com/ralouphie/getallheaders/tree/develop\ralouphie/getallheaders]8;;\            3.0.3   A polyfill for getallheaders.
+]8;;https://github.com/ramsey/collection/tree/2.0.0\ramsey/collection]8;;\                  2.0.0   A PHP library for representing and manipulating collections.
+]8;;https://github.com/ramsey/uuid/tree/4.7.6\ramsey/uuid]8;;\                        4.7.6   A PHP library for generating and working with universally unique identifiers (UUIDs).
+]8;;https://github.com/sebastianbergmann/cli-parser/tree/3.0.2\sebastian/cli-parser]8;;\               3.0.2   Library for parsing CLI options
+]8;;https://github.com/sebastianbergmann/code-unit/tree/3.0.2\sebastian/code-unit]8;;\                3.0.2   Collection of value objects that represent the PHP code units
+]8;;https://github.com/sebastianbergmann/code-unit-reverse-lookup/tree/4.0.1\sebastian/code-unit-reverse-lookup]8;;\ 4.0.1   Looks up which function or method a line of code belongs to
+]8;;https://github.com/sebastianbergmann/comparator/tree/6.3.0\sebastian/comparator]8;;\               6.3.0   Provides the functionality to compare PHP values for equality
+]8;;https://github.com/sebastianbergmann/complexity/tree/4.0.1\sebastian/complexity]8;;\               4.0.1   Library for calculating the complexity of PHP code units
+]8;;https://github.com/sebastianbergmann/diff/tree/6.0.2\sebastian/diff]8;;\                     6.0.2   Diff implementation
+]8;;https://github.com/sebastianbergmann/environment/tree/7.2.0\sebastian/environment]8;;\              7.2.0   Provides functionality to handle HHVM/PHP environments
+]8;;https://github.com/sebastianbergmann/exporter/tree/6.3.0\sebastian/exporter]8;;\                 6.3.0   Provides the functionality to export PHP variables for visualization
+]8;;https://github.com/sebastianbergmann/global-state/tree/7.0.2\sebastian/global-state]8;;\             7.0.2   Snapshotting of global state
+]8;;https://github.com/sebastianbergmann/lines-of-code/tree/3.0.1\sebastian/lines-of-code]8;;\            3.0.1   Library for counting the lines of code in PHP source code
+]8;;https://github.com/sebastianbergmann/object-enumerator/tree/6.0.1\sebastian/object-enumerator]8;;\        6.0.1   Traverses array structures and object graphs to enumerate all referenced objects
+]8;;https://github.com/sebastianbergmann/object-reflector/tree/4.0.1\sebastian/object-reflector]8;;\         4.0.1   Allows reflection of object attributes, including inherited and non-public ones
+]8;;https://github.com/sebastianbergmann/recursion-context/tree/6.0.2\sebastian/recursion-context]8;;\        6.0.2   Provides functionality to recursively process PHP variables
+]8;;https://github.com/sebastianbergmann/type/tree/5.1.0\sebastian/type]8;;\                     5.1.0   Collection of value objects that represent the types of the PHP type system
+]8;;https://github.com/sebastianbergmann/version/tree/5.0.2\sebastian/version]8;;\                  5.0.2   Library that helps with managing the version number of Git-hosted PHP projects
+]8;;https://github.com/staabm/side-effects-detector/tree/1.0.5\staabm/side-effects-detector]8;;\       1.0.5   A static analysis tool to detect side effects in PHP code
+]8;;https://github.com/symfony/clock/tree/v7.2.0\symfony/clock]8;;\                      7.2.0   Decouples applications from the system clock
+]8;;https://github.com/symfony/console/tree/v7.2.1\symfony/console]8;;\                    7.2.1   Eases the creation of beautiful and testable command line interfaces
+]8;;https://github.com/symfony/css-selector/tree/v7.2.0\symfony/css-selector]8;;\               7.2.0   Converts CSS selectors to XPath expressions
+]8;;https://github.com/symfony/deprecation-contracts/tree/v3.5.1\symfony/deprecation-contracts]8;;\      3.5.1   A generic function and convention to trigger deprecation notices
+]8;;https://github.com/symfony/error-handler/tree/v7.2.4\symfony/error-handler]8;;\              7.2.4   Provides tools to manage errors and ease debugging PHP code
+]8;;https://github.com/symfony/event-dispatcher/tree/v7.2.0\symfony/event-dispatcher]8;;\           7.2.0   Provides tools that allow your application components to communicate with each other by dispatching ...
+]8;;https://github.com/symfony/event-dispatcher-contracts/tree/v3.5.1\symfony/event-dispatcher-contracts]8;;\ 3.5.1   Generic abstractions related to dispatching event
+]8;;https://github.com/symfony/finder/tree/v7.2.2\symfony/finder]8;;\                     7.2.2   Finds files and directories via an intuitive fluent interface
+]8;;https://github.com/symfony/http-foundation/tree/v7.2.3\symfony/http-foundation]8;;\            7.2.3   Defines an object-oriented layer for the HTTP specification
+]8;;https://github.com/symfony/http-kernel/tree/v7.2.4\symfony/http-kernel]8;;\                7.2.4   Provides a structured process for converting a Request into a Response
+]8;;https://github.com/symfony/mailer/tree/v7.2.3\symfony/mailer]8;;\                     7.2.3   Helps sending emails
+]8;;https://github.com/symfony/mime/tree/v7.2.4\symfony/mime]8;;\                       7.2.4   Allows manipulating MIME messages
+]8;;https://github.com/symfony/polyfill-ctype/tree/v1.31.0\symfony/polyfill-ctype]8;;\             1.31.0  Symfony polyfill for ctype functions
+]8;;https://github.com/symfony/polyfill-intl-grapheme/tree/v1.31.0\symfony/polyfill-intl-grapheme]8;;\     1.31.0  Symfony polyfill for intl's grapheme_* functions
+]8;;https://github.com/symfony/polyfill-intl-idn/tree/v1.31.0\symfony/polyfill-intl-idn]8;;\          1.31.0  Symfony polyfill for intl's idn_to_ascii and idn_to_utf8 functions
+]8;;https://github.com/symfony/polyfill-intl-normalizer/tree/v1.31.0\symfony/polyfill-intl-normalizer]8;;\   1.31.0  Symfony polyfill for intl's Normalizer class and related functions
+]8;;https://github.com/symfony/polyfill-mbstring/tree/v1.31.0\symfony/polyfill-mbstring]8;;\          1.31.0  Symfony polyfill for the Mbstring extension
+]8;;https://github.com/symfony/polyfill-php80/tree/v1.31.0\symfony/polyfill-php80]8;;\             1.31.0  Symfony polyfill backporting some PHP 8.0+ features to lower PHP versions
+]8;;https://github.com/symfony/polyfill-php83/tree/v1.31.0\symfony/polyfill-php83]8;;\             1.31.0  Symfony polyfill backporting some PHP 8.3+ features to lower PHP versions
+]8;;https://github.com/symfony/polyfill-uuid/tree/v1.31.0\symfony/polyfill-uuid]8;;\              1.31.0  Symfony polyfill for uuid functions
+]8;;https://github.com/symfony/process/tree/v7.2.4\symfony/process]8;;\                    7.2.4   Executes commands in sub-processes
+]8;;https://github.com/symfony/routing/tree/v7.2.3\symfony/routing]8;;\                    7.2.3   Maps an HTTP request to a set of configuration variables
+]8;;https://github.com/symfony/service-contracts/tree/v3.5.1\symfony/service-contracts]8;;\          3.5.1   Generic abstractions related to writing services
+]8;;https://github.com/symfony/string/tree/v7.2.0\symfony/string]8;;\                     7.2.0   Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clus...
+]8;;https://github.com/symfony/translation/tree/v7.2.4\symfony/translation]8;;\                7.2.4   Provides tools to internationalize your application
+]8;;https://github.com/symfony/translation-contracts/tree/v3.5.1\symfony/translation-contracts]8;;\      3.5.1   Generic abstractions related to translation
+]8;;https://github.com/symfony/uid/tree/v7.2.0\symfony/uid]8;;\                        7.2.0   Provides an object-oriented API to generate and represent UIDs
+]8;;https://github.com/symfony/var-dumper/tree/v7.2.3\symfony/var-dumper]8;;\                 7.2.3   Provides mechanisms for walking through any arbitrary PHP variable
+]8;;https://github.com/symfony/yaml/tree/v7.2.3\symfony/yaml]8;;\                       7.2.3   Loads and dumps YAML files
+]8;;https://github.com/theseer/tokenizer/tree/1.2.3\theseer/tokenizer]8;;\                  1.2.3   A small library for converting tokenized PHP source code into XML and potentially other formats
+]8;;https://github.com/tijsverkoyen/CssToInlineStyles/tree/v2.3.0\tijsverkoyen/css-to-inline-styles]8;;\  2.3.0   CssToInlineStyles is a class that enables you to convert HTML-pages/files into HTML-pages/files with...
+]8;;https://github.com/vlucas/phpdotenv/tree/v5.6.1\vlucas/phpdotenv]8;;\                   5.6.1   Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
+]8;;https://github.com/voku/portable-ascii/tree/2.0.3\voku/portable-ascii]8;;\                2.0.3   Portable ASCII library - performance optimized (ascii) string functions for php.
+]8;;https://github.com/webmozarts/assert/tree/1.11.0\webmozart/assert]8;;\                   1.11.0  Assertions to validate method input/output with nice error messages.
