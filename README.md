@@ -52,7 +52,12 @@ php artisan key:generate
 <p>6. Open the .env file and update the database settings:</p>
 
 ```
-DB_CONNECTION=mysql DB_HOST=127.0.0.1 DB_PORT=3306 DB_DATABASE=your_database_name DB_USERNAME=your_username DB_PASSWORD=your_password
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=your_database_name
+DB_USERNAME=your_username
+DB_PASSWORD=your_password
 ```
 
 <p>7. Run the migrations (Note: the "--seed" in the command below will automatically add "Admin User" credentials to your database; It is necessary to make your first login to the application):</p>
@@ -79,7 +84,18 @@ http://127.0.0.1:8000
 E-mail: admin@example.com    Password: 12341234
 ```
 
-<p>11. To enable email notifications for user approvals you must configure the ".env" file and update the "MAILER" settings; You can watch this simple video tutorial on how to configure or send e-mail in Laravel using Gmail SMTP:</p>
+<p>11. To enable email notifications for user approvals you must configure the ".env" file and update the "MAILER" settings like the example below; You can watch this simple video tutorial on how to get email_password and to configure using Gmail SMTP:</p>
+
+```
+MAIL_MAILER=smtp
+MAIL_HOST=smtp.gmail.com
+MAIL_PORT=587
+MAIL_USERNAME=your@email.com
+MAIL_PASSWORD=email_password_from_gmail
+MAIL_ENCRYPTION=tls
+MAIL_FROM_ADDRESS="your@email"
+MAIL_FROM_NAME="Employee Management System"
+```
 
 ```
 https://www.youtube.com/watch?v=JesSP3pRB_I
