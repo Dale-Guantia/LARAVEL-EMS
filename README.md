@@ -78,7 +78,7 @@ php artisan serve
 http://127.0.0.1:8000
 ```
 
-<p>10. User this credentials to login "Admin User":</p>
+<p>10. Use this credentials to login "Admin User":</p>
 
 ```
 E-mail: admin@example.com
